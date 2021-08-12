@@ -18,11 +18,10 @@ anymore. The application displays a list of classes and classrooms along with oc
 
 a time period.
 
+
+
 **Main specifications:**
 
-·
-
-·
 
 Multiple user roles: Guest (not logged in user), Student, Teacher, Admin.
 
@@ -54,31 +53,10 @@ As an admin / teacher you have the option to click on the calendar and create a 
 
 entry.
 
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-
-
-
 
 **Optional features:**
 
-·
 
-·
-
-·
-
-·
 
 As an admin / teacher you have the option to click on the calendar and create a new
 
@@ -94,13 +72,10 @@ classroom.
 
 Login
 
+
+
 **Technical hints:**
 
-·
-
-·
-
-·
 
 The first users will be added manually in the DB, since the login feature is optional.
 
@@ -114,19 +89,7 @@ mocked data until the backend is ready.
 
 **User**:
 
-·
 
-·
-
-·
-
-·
-
-·
-
-·
-
-·
 
 Role – guest / student / teacher / admin
 
@@ -142,19 +105,10 @@ Section (optional)
 
 Group (optional)
 
+
+
+
 **Class**:
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
 
 Name
 
@@ -173,14 +127,6 @@ Classroom
 
 
 **Classroom**:
-
-·
-
-·
-
-·
-
-·
 
 Name
 
